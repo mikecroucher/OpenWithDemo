@@ -2,7 +2,7 @@ This is an "Open in MATLAB Online" demo based on Arnaldo Rodriguez-Gonzalez's wo
 
 The original source for these files is at https://aghostinthefigures.com/teaching-resources/ 
 
-The point of this demo is to show that users can open up Live Scripts in MATLAB Online via the 'Open in MATLAB Online' button and that this works even when they don't have a MATLAB License as desribed in this blog post 
+The point of this demo is to show that users can open up Live Scripts in MATLAB Online via the 'Open in MATLAB Online' button and that this works even when they don't have a MATLAB License as desribed in this blog post https://blogs.mathworks.com/matlab/2023/07/20/open-science-and-reusable-research-with-matlab-online-and-github/ 
 
 All you need to do is upload the .mlx files to a github repo and construct the links using this form https://uk.mathworks.com/products/matlab-online/git.html
 
